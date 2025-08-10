@@ -1,0 +1,13 @@
+@model Tarea3VRD.Models.Producto
+
+@{
+    ViewData["Title"] = "Registro de Producto Confirmado";
+}
+
+<h2>Registro de Producto Confirmado</h2>
+
+<p><strong>Nombre:</strong> @Model.Nombre</p>
+<p><strong>Precio:</strong> @Model.Precio</p>
+<p><strong>Stock:</strong> @Model.Stock</p>
+
+<a class="btn btn-success" asp-controller="Home" asp-action="Index">Volver al inicio</a>
