@@ -3,6 +3,16 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Bienvenido a Veterinaria</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">Bienvenido a la veterinaria</h1>
+    <p>Elige una opción para continuar:</p>
+
+    <!-- Botón para ir al registro de mascotas -->
+    <a class="btn btn-primary btn-lg m-2" asp-controller="Mascotas" asp-action="Registrar">
+        Registrar Mascota
+    </a>
+
+    <!-- Botón para ir al registro de productos -->
+    <a class="btn btn-success btn-lg m-2" asp-controller="Productos" asp-action="Registrar">
+        Registrar Producto
+    </a>
 </div>

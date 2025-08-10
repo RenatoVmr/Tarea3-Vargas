@@ -94,3 +94,4 @@ C:\Users\rs_va\OneDrive\Desktop\Tarea3VRD\obj\Debug\net9.0\refint\Tarea3VRD.dll
 C:\Users\rs_va\OneDrive\Desktop\Tarea3VRD\obj\Debug\net9.0\Tarea3VRD.pdb
 C:\Users\rs_va\OneDrive\Desktop\Tarea3VRD\obj\Debug\net9.0\Tarea3VRD.genruntimeconfig.cache
 C:\Users\rs_va\OneDrive\Desktop\Tarea3VRD\obj\Debug\net9.0\ref\Tarea3VRD.dll
+C:\Users\rs_va\OneDrive\Desktop\Tarea3VRD\obj\Debug\net9.0\Tarea3VRD.sourcelink.json

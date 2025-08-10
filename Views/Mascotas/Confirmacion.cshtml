@@ -1,0 +1,13 @@
+@model Tarea3VRD.Models.Mascota
+
+@{
+    ViewData["Title"] = "Registro de Mascota Confirmado";
+}
+
+<h2>Registro de Mascota Confirmado</h2>
+
+<p><strong>Nombre:</strong> @Model.Nombre</p>
+<p><strong>Tipo:</strong> @Model.Tipo</p>
+<p><strong>Edad:</strong> @Model.Edad</p>
+
+<a class="btn btn-primary" asp-controller="Home" asp-action="Index">Volver al inicio</a>
